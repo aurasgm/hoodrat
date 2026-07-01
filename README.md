@@ -36,6 +36,8 @@ Sustituye ese valor por el CA real cuando este listo.
 
 - Hero y OpenGraph: [public/assets/hoodrat-hero.png](public/assets/hoodrat-hero.png)
 - Token logo y favicon source: [public/assets/hoodrat-token.png](public/assets/hoodrat-token.png)
+- Icono 1000x1000: [public/assets/hoodrat-icon-1000.png](public/assets/hoodrat-icon-1000.png)
+- Banner 1500x500: [public/assets/hoodrat-banner-1500x500.png](public/assets/hoodrat-banner-1500x500.png)
 - OpenGraph final: [public/og-image.png](public/og-image.png)
 - Favicon: [public/favicon.png](public/favicon.png)
 - Concept visual generado: [docs/design-concept.png](docs/design-concept.png)
