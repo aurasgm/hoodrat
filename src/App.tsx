@@ -64,10 +64,10 @@ const buySteps = [
     linkLabel: 'Open Noxa',
   },
   {
-    title: 'Buy $HOODRAT',
+    title: 'Buy $HOOD',
     icon: Zap,
     mark: 'CA',
-    body: 'Paste the $HOODRAT contract address, connect Rabby, and swap RBH-ETH for $HOODRAT.',
+    body: 'Paste the $HOOD contract address, connect Rabby, and swap RBH-ETH for $HOOD.',
   },
 ]
 
@@ -80,7 +80,7 @@ const rpcSettings = [
 
 const tokenFacts = [
   ['Token name', 'Hoodrat'],
-  ['Ticker', '$HOODRAT'],
+  ['Ticker', '$HOOD'],
   ['Network', 'Robinhood Chain'],
   ['Contract', CONTRACT_ADDRESS],
   ['Launchpad', 'Noxa.fi'],
@@ -127,7 +127,7 @@ function App() {
           <img src={BRAND_ICON} alt="" />
           <span>
             Hoodrat
-            <small>$HOODRAT</small>
+            <small>$HOOD</small>
           </span>
         </a>
 
@@ -149,7 +149,7 @@ function App() {
         <div className="hero-copy">
           <h1>
             Hoodrat
-            <span>$HOODRAT</span>
+            <span>$HOOD</span>
           </h1>
           <p className="hero-line">The Pepe of Robinhood Chain.</p>
           <p className="hero-body">
@@ -215,7 +215,7 @@ function App() {
           <h2>From cave lore to Robinhood Chain.</h2>
           <p>
             Hoodrat is the orange, big-eared wild card from Matt Furie's world.
-            $HOODRAT turns that underground energy into the Robinhood Chain mascot:
+            $HOOD turns that underground energy into the Robinhood Chain mascot:
             a funny, feral, no-promises token for meme culture.
           </p>
           <p>
@@ -229,7 +229,7 @@ function App() {
       <section id="how-to-buy" className="buy-section">
         <div className="section-heading">
           <p className="section-label">How to purchase</p>
-          <h2>Six steps to $HOODRAT.</h2>
+          <h2>Six steps to $HOOD.</h2>
         </div>
 
         <div className="steps-grid">
@@ -296,7 +296,7 @@ function App() {
           <div className="disclaimer-panel">
             <h3>Always DYOR</h3>
             <p>
-              $HOODRAT is a meme coin for entertainment. It has no intrinsic
+              $HOOD is a meme coin for entertainment. It has no intrinsic
               value, no promise of return, and no endorsement from Robinhood
               Markets, Inc. Always verify the live contract before swapping.
             </p>

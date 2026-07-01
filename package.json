@@ -2,7 +2,7 @@
   "name": "hoodrat",
   "private": false,
   "version": "1.0.0",
-  "description": "Hoodrat $HOODRAT landing page for Robinhood Chain.",
+  "description": "Hoodrat $HOOD landing page for Robinhood Chain.",
   "type": "module",
   "scripts": {
     "dev": "vite",

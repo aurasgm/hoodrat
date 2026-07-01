@@ -1,6 +1,6 @@
-# Hoodrat $HOODRAT
+# Hoodrat $HOOD
 
-Landing page para Hoodrat `$HOODRAT`, meme coin en Robinhood Chain inspirada en Hoodrat, personaje asociado a Matt Furie y The Night Riders.
+Landing page para Hoodrat `$HOOD`, meme coin en Robinhood Chain inspirada en Hoodrat, personaje asociado a Matt Furie y The Night Riders.
 
 ## Ejecutar en local
 
@@ -42,4 +42,4 @@ const CONTRACT_ADDRESS = '0x0ec597eeab963e07cb64c0620861e3e4c7a5e0c7'
 
 ## Nota
 
-Pagina fan-made sin afiliacion oficial con Robinhood Markets, Inc. `$HOODRAT` se presenta como meme coin de entretenimiento, sin promesa financiera.
+Pagina fan-made sin afiliacion oficial con Robinhood Markets, Inc. `$HOOD` se presenta como meme coin de entretenimiento, sin promesa financiera.
