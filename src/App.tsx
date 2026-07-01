@@ -16,7 +16,7 @@ import {
 } from 'lucide-react'
 import './App.css'
 
-const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000'
+const CONTRACT_ADDRESS = '0x0ec597eeab963e07cb64c0620861e3e4c7a5e0c7'
 const BRAND_ICON = '/assets/hoodrat-icon-1000.png'
 
 const navItems = [
@@ -82,7 +82,7 @@ const tokenFacts = [
   ['Token name', 'Hoodrat'],
   ['Ticker', '$HOODRAT'],
   ['Network', 'Robinhood Chain'],
-  ['Contract', 'Placeholder zeros'],
+  ['Contract', CONTRACT_ADDRESS],
   ['Launchpad', 'Noxa.fi'],
   ['Tax', '0/0'],
 ]
@@ -298,8 +298,7 @@ function App() {
             <p>
               $HOODRAT is a meme coin for entertainment. It has no intrinsic
               value, no promise of return, and no endorsement from Robinhood
-              Markets, Inc. Replace the placeholder contract once the final token
-              address is live.
+              Markets, Inc. Always verify the live contract before swapping.
             </p>
           </div>
         </div>

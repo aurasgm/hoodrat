@@ -22,15 +22,13 @@ Netlify queda configurado con `netlify.toml`:
 
 No requiere `.env`.
 
-## Cambiar el contrato
+## Contrato
 
-El contrato placeholder esta en [src/App.tsx](src/App.tsx):
+El contrato actual esta en [src/App.tsx](src/App.tsx):
 
 ```ts
-const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000'
+const CONTRACT_ADDRESS = '0x0ec597eeab963e07cb64c0620861e3e4c7a5e0c7'
 ```
-
-Sustituye ese valor por el CA real cuando este listo.
 
 ## Assets
 
